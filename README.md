@@ -5,7 +5,7 @@ concepts of mastermind. UML diagrams, use cases, requirements, images
 - [Joanna-Szczesna](https://github.com/Joanna-Szczesna) - backend, documentation, graphic design
 - [mjedwabn](https://github.com/mjedwabn) - frontend
 
-# Game available to download
+# Download
 [here](https://github.com/Joanna-Szczesna/Mastermind-game/releases/tag/v1.0.0)
 
 
