@@ -1,7 +1,9 @@
-# Mastermind-demo
+# Mastermind-game
 concepts of mastermind. UML diagrams, use cases, requirements, images
 
-
+# Contributors
+- [Joanna-Szczesna](https://github.com/Joanna-Szczesna) - backend, documentation, graphic design
+- [mjedwabn](https://github.com/mjedwabn) - frontend
 
 # Mastermind in space
 
