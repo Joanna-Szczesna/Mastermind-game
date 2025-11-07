@@ -1,15 +1,15 @@
 # Mastermind-game
 concepts of mastermind. UML diagrams, use cases, requirements, images
 
-# Contributors
+## Contributors
 - [Joanna-Szczesna](https://github.com/Joanna-Szczesna) - backend, documentation, graphic design
 - [mjedwabn](https://github.com/mjedwabn) - frontend
 
-# Download
+## Download
 [here](https://github.com/Joanna-Szczesna/Mastermind-game/releases/tag/v1.0.0)
 
 
-# Mastermind in space
+## Mastermind in space
 
 prototype view:
 <img src="/images/MasterMindPrototype.png" width="720" height="512">
